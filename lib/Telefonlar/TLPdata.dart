@@ -1,0 +1,98 @@
+import 'package:pertys_pro/Telefonlar/thirdTLP.dart';
+
+class Propertys {
+  List<String> propertysCamera = [
+    "Kamera Özellikleri: Portre Modu- HDR -Panaroma-Otomatik Odaklama-Zamanlayıcı-Yüz Algılama",
+    "Kamera Özellikleri: Yüz Algılama-Portre Modu- HDR -Panaroma-Otomatik Odaklama",
+    "Kamera Özellikleri: Zamanlayıcı -Portre Modu- HDR -Panaroma-Otomatik Odaklama",
+    "Kamera Özellikleri: Phase Detect Auto-Focus (PDAF)-Depth of Field (DOF)-HDR",
+    "Kamera Özellikleri: Portre Modu (Bokeh)-Depth of Field (DOF)-Carl Zeiss Mercek",
+    "Kamera Özellikleri: Portre Modu (Bokeh)-Phase Detect Auto-Focus (PDAF)-Depth of Field (DOF)-Carl Zeiss Mercek",
+    "Kamere Özellikleri: Depth of Field (DOF)-Focus Pixels Otomatik Odaklama-Portre Modu (Bokeh)-HDR-Live Photos-Sesli komut",
+    "Kamere Özellikleri: Portre Modu (Bokeh)-Phase Detect Auto-Focus (PDAF)-Depth of Field (DOF)",
+    "Kamere Özellikleri: Focus Pixels Otomatik Odaklama-Portre Modu (Bokeh)-Phase Detect Auto-Focus (PDAF)",
+    "Kamere Özellikleri: Depth of Field (DOF)Phase Detect Auto-Focus (PDAF)-HDR-Live Photos-Sesli komut",
+    "Kamera Özellikleri: Yüz Algılama-Portre Modu- HDR -Panaroma-Otomatik Odaklama",
+    "Kamera Özellikleri: Zamanlayıcı -Portre Modu- HDR -Panaroma-Otomatik Odaklama",
+    "Kamera Özellikleri: Phase Detect Auto-Focus (PDAF)-Depth of Field (DOF)-HDR",
+    "Kamera Özellikleri: Portre Modu (Bokeh)-Depth of Field (DOF)-Carl Zeiss Mercek",
+    "Kamere Özellikleri: Depth of Field (DOF)-Focus Pixels Otomatik Odaklama-Portre Modu (Bokeh)-HDR-Live Photos-Sesli komut",
+    "Kamere Özellikleri: Portre Modu (Bokeh)-Phase Detect Auto-Focus (PDAF)-Depth of Field (DOF)",
+  ];
+
+  List<String> propertysBatary = [
+    "Batarya Kapasitesi: 5500 mH",
+    "Batarya Kapasitesi: 5500 mH",
+    "Batarya Kapasitesi: 5400 mH",
+    "Batarya Kapasitesi: 3000 mh",
+    "Batarya Kapasitesi: 3400 mh",
+    "Batarya Kapasitesi: 3600 mH",
+    "Batarya Kapasitesi: 3300 mH",
+    "Batarya Kapasitesi: 3500 mH",
+    "Batarya Kapasitesi: 3500 mH",
+    "Batarya Kapasitesi: 5500 mH",
+    "Batarya Kapasitesi: 5400 mH",
+    "Batarya Kapasitesi: 3000 mh",
+    "Batarya Kapasitesi: 3400 mh",
+    "Batarya Kapasitesi: 5400 mH",
+    "Batarya Kapasitesi: 3000 mh",
+    "Batarya Kapasitesi: 3400 mh",
+  ];
+
+  List<String> propertysScreen = [
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)-Damla Çentikli",
+    "Ekran Özellikleri: Çerçevesiz Tasarım-Çentikli - Multi Touch -Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri: Damla Çentikli (Water-Drop Notch)- Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)",
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli -Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri:	Çizilmeye Dirençli Cam-Multi Touch-Sürekli Açık Ekran (Always-on Display)-Eğimli Ekran",
+    "Ekran Özellikleri: 700 cd/m² (nit) Parlaklık-Sürekli Açık Ekran (Always-on Display)-Eğimli Ekran (2.5D)",
+    "Ekran Özellikleri: Multi Touch-Sürekli Açık Ekran (Always-on Display)-	Çizilmeye Dirençli Cam",
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)-Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri: Çerçevesiz Tasarım-Çentikli - Multi Touch -Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri: Damla Çentikli (Water-Drop Notch)- Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)",
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli -Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri:	Çizilmeye Dirençli Cam-Multi Touch-Sürekli Açık Ekran (Always-on Display)-Eğimli Ekran (2.5D)",
+    "Ekran Özellikleri: 700 cd/m² (nit) Parlaklık-Sürekli Açık Ekran (Always-on Display)-Eğimli Ekran (2.5D)",
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)-Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri: Çerçevesiz Tasarım-Çentikli - Multi Touch -Damla Çentikli (Water-Drop Notch)",
+    "Ekran Özellikleri: Multi Touch -Çerçevesiz Tasarım-Çentikli (Notch)-Damla Çentikli",
+  ];
+
+  List<String> propertysSystem = [
+    "Android",
+    "Android",
+    "Android",
+    "Android",
+    "Android",
+    "Android",
+    "Android",
+    "IOS",
+    "IOS",
+    "IOS",
+    "IOS",
+    "IOS",
+    "Android",
+    "Android",
+    "Android",
+    "Android",
+  ];
+
+  List<String> propertysStock = [
+    "Dahili Depolama: 32 GB",
+    "Dahili Depolama: 64 GB",
+    "Dahili Depolama: 32 GB",
+    "Dahili Depolama: 128 GB",
+    "Dahili Depolama: 64 GB",
+    "Dahili Depolama: 128 GB",
+    "Dahili Depolama: 128 GB",
+    "Dahili Depolama: 64 GB",
+    "Dahili Depolama: 32 GB",
+    "Dahili Depolama: 128 GB",
+    "Dahili Depolama: 64 GB",
+    "Dahili Depolama: 32 GB",
+    "Dahili Depolama: 128 GB",
+    "Dahili Depolama: 64 GB",
+    "Dahili Depolama: 32 GB",
+    "Dahili Depolama: 32 GB",
+  ];
+}
